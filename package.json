@@ -1,0 +1,8 @@
+{
+  "name": "taams-analyzer-v3",
+  "version": "3.0.0",
+  "private": true,
+  "description": "TAAMS Analyzer V3 — manuel et connexion TikTok autorisée",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
