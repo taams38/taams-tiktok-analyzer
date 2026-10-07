@@ -12,7 +12,7 @@ Analysis is calculated in the browser. The Node server handles OAuth and TikTok 
 1. Install Node.js 18 or newer if it is not already installed.
 2. Double-click `demarrer-v3.bat`.
 3. In a browser, open `http://localhost:3000`.
-4. Enter stats or import a CSV/JSON file, then select **Analyser mes données**.
+4. Choose **Importer un fichier** for the quickest option, or choose **Saisir mes chiffres** to open the manual form, then select **Analyser mes données**.
 
 The manual mode works without TikTok credentials or an internet connection. The TikTok sign-in button stays disabled until the server is configured.
 
@@ -60,4 +60,5 @@ Use `exemple-import.csv` as an empty header template. Required column: `views` o
 - [TikTok Display API setup](https://developers.tiktok.com/docs/en/display-api-get-started)
 - [TikTok API scopes](https://developers.tiktok.com/docs/en/tiktok-api-scopes)
 - [TikTok token management](https://developers.tiktok.com/docs/en/oauth-user-access-token-management)
+
 
